@@ -1,4 +1,4 @@
-# Hi, I'm [Devin](https://linktr.ee/JactusTheCactus)! 👋
+# Hi, I'm [Devin](https://linktr.ee/JactusTheCactus?subscribe)! 👋
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
