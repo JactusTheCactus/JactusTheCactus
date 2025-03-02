@@ -1,16 +1,18 @@
-- Hi, I’m [@JactusTheCactus](https://github.com/JactusTheCactus)
-- I’m interested in GameDev and Worldbuilding
-- I’m currently learning:
-  - JavaScript
-  - GDScript
-- Pronouns: He/Him/His
-<!--
-- I’m looking to collaborate on ...
-- How to reach me ...
-- Fun fact: ...
--->
-<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
-
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JactusTheCactus&amp;show_icons=true&amp;theme=dark" alt="Anurag&#39;s GitHub stats"></a></p>
-
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JactusTheCactus&amp;layout=compact&amp;theme=dark" alt="Top Langs"></a></p>
+# Hi, I'm Devin! 👋
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Aspiring Game/Software Developer & Worldbuilder 
+- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/abugida-guide/)  
+- Working on a [base-12 numeral system](https://jactusthecactus.github.io/abugida-guide/numbers.html)
+## 📫 How to Reach Me:
+- Email: basarabadevin@gmail.com  
+- Bluesky: [JactusTheCactus](@jactusthecactus.bsky.social)
+- Discord: [CarolusRex](carolusrex5355)
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JactusTheCactus&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JactusTheCactus&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JactusTheCactus&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JactusTheCactus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Currently Listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&redirect=true)
