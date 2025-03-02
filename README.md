@@ -10,16 +10,8 @@
 - Fun fact: ...
 -->
 
-<div>
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JactusTheCactus&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=default&bg_color=F6F8FA"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tthn0&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
-    />
-    <img alt="Most Used Languages"> <!-- https://github.com/anuraghazra/github-readme-stats-->
-  </picture>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&redirect=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JactusTheCactus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JactusTheCactus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
