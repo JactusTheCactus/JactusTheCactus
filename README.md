@@ -1,14 +1,10 @@
-# Hi, I'm Devin! 👋
+# Hi, I'm [Devin](https://linktr.ee/JactusTheCactus)! 👋
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Aspiring Game/Software Developer & Worldbuilder 
 - Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/abugida-guide/)  
 - Working on a [base-12 numeral system](https://jactusthecactus.github.io/abugida-guide/numbers.html)
-## 📫 How to Reach Me:
-- Email: basarabadevin@gmail.com  
-- Bluesky: [JactusTheCactus](@jactusthecactus.bsky.social)
-- Discord: [CarolusRex](carolusrex5355)
 ## 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JactusTheCactus&show_icons=true&theme=tokyonight)
 
