@@ -10,8 +10,8 @@
 - Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&redirect=true)
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JactusTheCactus&amp;show_icons=true&amp;theme=dark" alt="Anurag&#39;s GitHub stats"></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JactusTheCactus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JactusTheCactus&amp;layout=compact&amp;theme=dark" alt="Top Langs"></a></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JactusTheCactus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
