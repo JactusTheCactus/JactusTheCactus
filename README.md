@@ -5,8 +5,8 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 - Aspiring Game/Software Developer & Worldbuilder 
-- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/abugida-guide/)  
-- Working on a [base-12 numeral system](https://jactusthecactus.github.io/abugida-guide/numbers.html)
+- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html)
+- Working on a [base-12 numeral system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/numbers.html)
 
 ## GitHub Stats:
 
