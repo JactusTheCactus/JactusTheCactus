@@ -1,8 +1,12 @@
 # Hi, I'm [Devin](https://linktr.ee/JactusTheCactus?subscribe)!
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+<!--
+https://inttter.github.io/md-badges/
+-->
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)
 
 - Aspiring Game/Software Developer & Worldbuilder 
 - Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html)
