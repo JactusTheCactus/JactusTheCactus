@@ -1,4 +1,4 @@
-# Hi, I'm [Devin](https://linktr.ee/JactusTheCactus?subscribe)!
+# Hi, I'm [Devin / JactusTheCactus](https://linktr.ee/JactusTheCactus?subscribe)!
 
 <!--
 https://inttter.github.io/md-badges/
@@ -16,15 +16,9 @@ https://inttter.github.io/md-badges/
 
 ## GitHub Stats:
 
-<details>
-  <summary>WakaTime Stats</summary>
-  
-  ![Coding Activity](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3bf3a1a4-7b6f-4387-a197-d27d59618200.svg)
-  ![Languages](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3d3bbf17-a570-404f-89b8-d22c7568e27e.svg)
-</details>
-
+![Coding Activity](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3bf3a1a4-7b6f-4387-a197-d27d59618200.svg)
+![Languages](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3d3bbf17-a570-404f-89b8-d22c7568e27e.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JactusTheCactus&show_icons=true&theme=tokyonight)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JactusTheCactus&theme=radical)
 
 ## Currently Listening to:
