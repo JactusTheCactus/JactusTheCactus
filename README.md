@@ -21,9 +21,6 @@ https://inttter.github.io/md-badges/
   
   ![Coding Activity](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3bf3a1a4-7b6f-4387-a197-d27d59618200.svg)
   ![Languages](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3d3bbf17-a570-404f-89b8-d22c7568e27e.svg)
-  ![Editors](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/056d7164-c6b5-4584-a904-c516e61697dc.svg)
-  ![Operating Systems](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/5fd703bd-ced3-4628-8465-88613e90ca2c.svg)
-  ![Categories](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/766721bb-d533-4b71-b893-f31f9605a65f.svg)
 </details>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JactusTheCactus&show_icons=true&theme=tokyonight)
