@@ -1,6 +1,6 @@
 # Hi, I'm [Devin / JactusTheCactus](https://linktr.ee/JactusTheCactus?subscribe)!
 - Aspiring Game/Software Developer & Worldbuilder 
-- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html) (font `.otf` [here](https://github.com/JactusTheCactus/new-abugida/raw/refs/heads/main/master_otf/Font-Regular.otf))
+- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html) (font `.otf` [link](https://github.com/JactusTheCactus/new-abugida/blob/main/master_otf/Font-Regular.otf) or [download](https://github.com/JactusTheCactus/new-abugida/raw/refs/heads/main/master_otf/Font-Regular.otf))
 - Working on a [base-12 numeral system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/numbers.html)
 ## Software
 <!--
