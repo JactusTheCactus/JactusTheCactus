@@ -1,18 +1,26 @@
 # Hi, I'm [Devin / JactusTheCactus](https://linktr.ee/JactusTheCactus?subscribe)!
-
+- Aspiring Game/Software Developer & Worldbuilder 
+- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html) (font `.otf` [here](https://github.com/JactusTheCactus/new-abugida/raw/refs/heads/main/master_otf/Font-Regular.otf))
+- Working on a [base-12 numeral system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/numbers.html)
+## Software
 <!--
 https://inttter.github.io/md-badges/
 -->
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
-[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-
-- Aspiring Game/Software Developer & Worldbuilder 
-- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html)
-- Working on a [base-12 numeral system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/numbers.html)
+- Engines
+	- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+		[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+		[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+- Languages
+	- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+		[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+		<sup>[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)</sup>
+		[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)
+		[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+		[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+- Operating Systems
+	- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+		[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+		<sup>[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)</sup>
 
 ## GitHub Stats:
 
