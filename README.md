@@ -1,9 +1,7 @@
 # Hi, I'm [`Devin` / `JactusTheCactus`](https://linktr.ee/JactusTheCactus?subscribe)!
 - Aspiring Game/Software Developer & Worldbuilder 
 - Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html)
-	- font `.otf` available here:
-		- [link](https://github.com/JactusTheCactus/new-abugida/blob/main/master_otf/Font-Regular.otf)
-		- [download](https://github.com/JactusTheCactus/new-abugida/raw/refs/heads/main/master_otf/Font-Regular.otf)
+	- font available [here](https://github.com/JactusTheCactus/new-abugida/tree/main)
 ## Software
 <!--
 https://inttter.github.io/md-badges/
