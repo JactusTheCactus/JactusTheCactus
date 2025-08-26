@@ -1,7 +1,7 @@
 # Hi, I'm [`Devin` / `JactusTheCactus`](https://linktr.ee/JactusTheCactus?subscribe)!
 - Aspiring Game/Software Developer & Worldbuilder 
 - Creator of _2_ [conscripts](https://en.m.wikipedia.org/wiki/Constructed_writing_system)
-	- [`AbugidaR`]()
+	- [`AbugidaR`](https://github.com/JactusTheCactus/conscript-font-gen/blob/main/AbugidaR%2FAbugidaR.otf)
 	- [`AlphabetD`]()
 ## Software
 <!--
