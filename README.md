@@ -3,7 +3,7 @@
 - Creator of _2_ [conscripts](https://en.m.wikipedia.org/wiki/Constructed_writing_system)
 	- [Repository](https://github.com/JactusTheCactus/conscript-font-gen)
 	- [`AbugidaR`](https://github.com/JactusTheCactus/conscript-font-gen/blob/main/AbugidaR%2FAbugidaR.otf)
-	- [`AlphabetD`](https://github.com/JactusTheCactus/conscript-font-gen/raw/refs/heads/main/AlphabetD/AlphabetD.otf)
+	- [`AlphabetD`](https://github.com/JactusTheCactus/conscript-font-gen/blob/main/AlphabetD%2FAlphabetD.otf)
 ## Software
 <!--
 https://inttter.github.io/md-badges/
