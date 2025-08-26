@@ -1,7 +1,6 @@
 # Hi, I'm [`Devin` / `JactusTheCactus`](https://linktr.ee/JactusTheCactus?subscribe)!
 - Aspiring Game/Software Developer & Worldbuilder 
-- Creator of a [Custom Abugida writing system](https://jactusthecactus.github.io/wiki/worldbuilding/abugida/abugida.html)
-	- font available [here](https://github.com/JactusTheCactus/new-abugida/tree/main)
+- Creator of _2_ conscripts
 ## Software
 <!--
 https://inttter.github.io/md-badges/
