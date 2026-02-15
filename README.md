@@ -21,8 +21,8 @@ https://inttter.github.io/md-badges/
 		[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 - Operating Systems
 	- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-		[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-		<sup>[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)</sup>
+		~~[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)~~
+		[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ## GitHub Stats:
 
