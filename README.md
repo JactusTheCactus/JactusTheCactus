@@ -24,7 +24,3 @@ https://inttter.github.io/md-badges/
 
 ![Coding Activity](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3bf3a1a4-7b6f-4387-a197-d27d59618200.svg)
 ![Languages](https://wakatime.com/share/@52ac2d9f-0012-46a6-b032-7398569b9b79/3d3bbf17-a570-404f-89b8-d22c7568e27e.svg)
-
-## Currently Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31obmmrliwnrnrd7sqp45hvkeaia&redirect=true)
